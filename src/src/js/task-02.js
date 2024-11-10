@@ -21,3 +21,4 @@ const listItems = ingredients.map(ingredient => {
 // Inserăm toate elementele <li> în <ul> într-o singură operațiune
 ingredientsList.append(...listItems);
 
+
